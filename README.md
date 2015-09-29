@@ -1,2 +1,2 @@
 # PolygonsEditor
-Development tools - MS Visual C ++ using the MFC library and GUI GDI.
+Development tools - MS Visual C ++ using the MFC library and GDI.
